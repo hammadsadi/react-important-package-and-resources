@@ -4,6 +4,7 @@ FrontEnd Animation Packages:
 
 - [Aos Smoth Animation for Scroll](https://michalsnik.github.io/aos/)
 - [React-Spinner](https://www.npmjs.com/package/react-spinners)
+- [React-Marque](https://www.react-fast-marquee.com/)
 - [Animated Gradient Text](https://www.andrealves.dev/blog/how-to-make-an-animated-gradient-text-with-tailwindcss/)
 
 Free UI Component Based

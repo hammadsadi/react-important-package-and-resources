@@ -15,7 +15,10 @@ Free UI Component Based
   Extra Resources:
 
 - [React Router Dom](https://reactrouter.com/en/main)
-- [Dev.to API Docs](https://developers.forem.com/api/v1#tag/articles/operation/getArticles)
+- [React Hook form](https://react-hook-form.com/)
+- [Swiper slider](https://swiperjs.com/)
+- [React-leaflet](https://react-leaflet.js.org/)
+- [Animate.css](https://animate.style/)
 - [React-Hot-Toast](https://react-hot-toast.com/)
 - [React-Icons](https://react-icons.github.io/react-icons/)
 - [React-Markdown](https://www.npmjs.com/package/react-markdown)

@@ -2,6 +2,10 @@
 
 FrontEnd Animation Packages:
 
+- [Lottie React ](https://www.npmjs.com/package/lottie-react)
+- [React-simple-typewriter ](https://www.npmjs.com/package/react-simple-typewriter)
+- [React Awesome reveal ](https://www.npmjs.com/package/react-awesome-reveal)
+- [React-tooltip ](https://react-tooltip.com/)
 - [Aos Smoth Animation for Scroll](https://michalsnik.github.io/aos/)
 - [React-Spinner](https://www.npmjs.com/package/react-spinners)
 - [React-Marque](https://www.react-fast-marquee.com/)

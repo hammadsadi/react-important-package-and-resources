@@ -12,8 +12,8 @@ FrontEnd Animation Packages:
 - [Animated Gradient Text](https://www.andrealves.dev/blog/how-to-make-an-animated-gradient-text-with-tailwindcss/)
 
 Free UI Component Based
-
 - [Mamba UI - Components](https://mambaui.com/components)
+- [Meraki UI - Components](https://merakiui.com/components)
 - [Tailwindcss Buttons](https://devdojo.com/tailwindcss/buttons)
 
   Extra Resources:
@@ -26,6 +26,9 @@ Free UI Component Based
 - [React-Hot-Toast](https://react-hot-toast.com/)
 - [React-Icons](https://react-icons.github.io/react-icons/)
 - [React-Markdown](https://www.npmjs.com/package/react-markdown)
+- [React-Tabs](https://www.npmjs.com/package/react-tabs)
+- [Date-fns](https://date-fns.org/)
+- [React Date Picker](https://www.npmjs.com/package/react-datepicker)
 - [ReHype-Raw](https://www.npmjs.com/package/rehype-raw)
 - [Prop-Types](https://www.npmjs.com/package/prop-types)
 - [Daisy UI](https://daisyui.com/)

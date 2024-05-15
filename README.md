@@ -11,14 +11,20 @@ FrontEnd Animation Packages:
 - [React-Marque](https://www.react-fast-marquee.com/)
 - [Animated Gradient Text](https://www.andrealves.dev/blog/how-to-make-an-animated-gradient-text-with-tailwindcss/)
 
+UI Component Library
+
+- [Shadcn Component Library](https://ui.shadcn.com/)
+- [chakra Component Library](https://v2.chakra-ui.com/)
+
 Free UI Component Based
+
 - [Mamba UI - Components](https://mambaui.com/components)
 - [Meraki UI - Components](https://merakiui.com/components)
 - [Tailwindcss Buttons](https://devdojo.com/tailwindcss/buttons)
 
   Extra Resources:
 
-- [React Router Dom](https://reactrouter.com/en/main)
+- [React to PDF](https://github.com/ivmarcos/react-to-pdf)
 - [React Hook form](https://react-hook-form.com/)
 - [Swiper slider](https://swiperjs.com/)
 - [React-leaflet](https://react-leaflet.js.org/)
